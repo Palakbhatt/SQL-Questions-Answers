@@ -1,2 +1,1 @@
-# SQL-Q1
-SQL Q1
+# SQL Questions
