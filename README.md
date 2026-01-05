@@ -6,3 +6,5 @@ Q2. Show first name and last name of patients who does not have allergies. (null
 Q3. Show first name of patients that start with the letter 'C'
 
 Q4. Show first name and last name of patients that weight within the range of 100 to 120 (inclusive)
+
+Q5. Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'
