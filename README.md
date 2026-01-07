@@ -8,3 +8,8 @@ Q3. Show first name of patients that start with the letter 'C'
 Q4. Show first name and last name of patients that weight within the range of 100 to 120 (inclusive)
 
 Q5. Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'
+
+Q6. Show first name and last name concatinated into one column to show their full name.
+
+Q7. Show first name, last name, and the full province name of each patient.
+Example: 'Ontario' instead of 'ON'
