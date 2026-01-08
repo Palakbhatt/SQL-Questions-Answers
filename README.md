@@ -13,3 +13,5 @@ Q6. Show first name and last name concatinated into one column to show their ful
 
 Q7. Show first name, last name, and the full province name of each patient.
 Example: 'Ontario' instead of 'ON'
+
+Q8. Show how many patients have a birth_date with 2010 as the birth year.
